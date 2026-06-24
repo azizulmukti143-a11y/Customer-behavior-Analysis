@@ -288,23 +288,6 @@ Focus campaigns on high-revenue age groups and purchasing segments.
 
 
 
----
-
-## Repository Structure
-
-```text
-Customer-Shopping-Behavior-Analysis/
-│
-├── customer_shopping_behavior_cleaning.ipynb
-├── customer_behaviour.sql
-├── Customer Shopping Behavior Analysis.pdf
-├── dashboard.pbix
-├── screenshots/
-├── dataset/
-├── README.md
-│
-└── report/
-```
 
 ---
 
